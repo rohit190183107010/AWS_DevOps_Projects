@@ -1,3 +1,6 @@
+# Project-Architecture
+![Project-Architecture](Image/architecture.jpg)
+
 # Prerequisites
 #
 - JDK 1.8 or later
